@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.tem-container {
+  background-color: #475569;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  height: 15vh;
+  width: 40vh;
+  outline: none;
+  opacity: 1;
+  margin: 10px;
+}
+.sizes {
+  height: 10vh;
+}
+.head-to-match-team {
+  font-size: 15px;
+  color: white;
+  font-weight: 500;
+  font-family: 'Beer serif';
+}
